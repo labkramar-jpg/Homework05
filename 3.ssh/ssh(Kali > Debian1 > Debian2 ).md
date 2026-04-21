@@ -36,3 +36,11 @@ sudo ip link set enp0s9 up
 ```
 
 <p align="center"> <img src="3.debian1-createIP.png" width="900"> </p>
+
+## 4) Подключение с Debian1 к Debian2
+
+```bash
+ssh debian2@192.168.50.20
+```
+
+<p align="center"> <img src="4. sshConnectToDebian2.png" width="900"> </p>
