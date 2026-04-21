@@ -14,4 +14,4 @@ sudo ip addr add 192.168.50.30/24 dev eth1
 sudo ip link set eth1 up
 ssh machine1@192.168.50.10
 ```
-<p align="center"> <img src="2.debian1-ssh.png" width="900"> </p>
+<p align="center"> <img src="1.KaliSSH.png" width="900"> </p>
